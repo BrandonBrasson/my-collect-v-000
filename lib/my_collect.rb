@@ -1,4 +1,4 @@
-def collect(collect)
+def collecting(collect)
   i = 0
   new_collect = []
   while i < collect.length
